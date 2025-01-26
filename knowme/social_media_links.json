@@ -1,0 +1,17 @@
+{
+  "gmail": "mailto:${}",
+  "paypal": "https://www.paypal.me/${}",
+  "whatsapp": "https://wa.me/${}",
+  "facebook": "https://www.facebook.com/${}",
+  "instagram": "https://www.instagram.com/${}",
+  "linkedin": "https://www.linkedin.com/in/${}",
+  "pinterest": "https://www.pinterest.com/${}",
+  "snapchat": "https://www.snapchat.com/add/${}",
+  "telegram": "https://t.me/${}",
+  "threads": "https://www.threads.net/@${}",
+  "tiktok": "https://www.tiktok.com/@${}",
+  "twitch": "https://www.twitch.tv/${}",
+  "x": "https://twitter.com/${}",
+  "youtube": "https://www.youtube.com/@${}",
+  "github": "https://github.com/${}"
+}

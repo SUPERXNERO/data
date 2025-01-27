@@ -16,7 +16,7 @@
       "more": [{
         "name": "Creator QR Code",
         "description": "it's an application that you can create qr code easily by it !",
-        "link": "https://superxnero.github.io/apps/creator-qr-code/index.html"
+        "url": "https://superxnero.github.io/apps/creator-qr-code/index.html"
       }]
     },
     "عربي": {
@@ -26,7 +26,7 @@
       "more": [{
         "name": "منشئ رمز QR",
         "description": "انه تطبيق يمكنك من خلاله انشاء رمز QR بسهولة !",
-        "link": "https://superxnero.github.io/apps/creator-qr-code/index.html"
+        "url": "https://superxnero.github.io/apps/creator-qr-code/index.html"
       }]
     }
   }

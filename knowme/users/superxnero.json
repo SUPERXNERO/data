@@ -17,6 +17,11 @@
         "name": "Creator QR Code",
         "description": "it's an application that you can create qr code easily by it !",
         "url": "https://superxnero.github.io/apps/creator-qr-code/index.html"
+      },
+      {
+        "name": "Number system converter",
+        "description": "it's an application that you can convert a number from system to another !",
+        "url": "https://superxnero.github.io/apps/number-system-converter/index.html"
       }]
     },
     "عربي": {
@@ -27,6 +32,10 @@
         "name": "منشئ رمز QR",
         "description": "انه تطبيق يمكنك من خلاله انشاء رمز QR بسهولة !",
         "url": "https://superxnero.github.io/apps/creator-qr-code/index.html"
+      },{
+        "name": "محوّل نظام الاعداد",
+        "description": "انه تطبيق يمكنك من خلاله تحويل عدد من نظام الى آخر!",
+        "url": "https://superxnero.github.io/apps/number-system-converter/index.html"
       }]
     }
   }

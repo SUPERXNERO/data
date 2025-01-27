@@ -1,5 +1,8 @@
 {
-  "image": "assets/images/knowme/superxnero.png",
+  "image": {
+    "notDirect": true,
+    "url": "superxnero.png"
+  },
   "socialMedia": {
     "youtube": "superxnero",
     "instagram": "superxnero",
@@ -9,13 +12,14 @@
     "english": {
       "name": "Ibrahim",
       "nickname": "superxnero",
-      "aboutme": "i'm developer\ni'm developer\ni'm developer\ni'm developer\ni'm developer\ni'm developer\ni'm developer",
-      "more": [{
-        "name": "my blog",
-        "description": "it's my blog...",
-        "image": "the link for the image , to show more details about it",
-        "link": "it's the link that will go to it when click on it or a specific button depands on the template (mean just about design)"
-      }]
+      "aboutme": "i'm developer\ni'm developer\ni'm developer\ni'm developer\ni'm developer\ni'm developer\ni'm developer\ni'm developer",
+      "more": []
+    },
+    "عربي": {
+      "name": "إبراهيم",
+      "nickname": "superxnero",
+      "aboutme": "أنا مطور\nأنا مطور\nأنا مطور\nأنا مطور\nأنا مطور\nأنا مطور\nأنا مطور\nأنا مطور",
+      "more": []
     }
   }
 }

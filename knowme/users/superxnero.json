@@ -15,18 +15,24 @@
       "nickname": "superxnero",
       "aboutme": "i'm developer\ni'm developer\ni'm developer\ni'm developer\ni'm developer\ni'm developer\ni'm developer\ni'm developer",
       "more": [{
-        "name": "My Team (STAKMAH)",
-        "description": "it's my team !...",
+        "name": "STAKMAH",
+        "description": "It's my team!",
         "url": "https://superxnero.github.io/apps/STAKMA-project/index.html"
-      }, {
-        "name": "Creator QR Code",
-        "description": "it's an application that you can create qr code easily by it !",
-        "url": "https://superxnero.github.io/apps/creator-qr-code/index.html"
       },
         {
-          "name": "Number system converter",
-          "description": "it's an application that you can convert a number from system to another !",
+          "name": "Creator QR Code",
+          "description": "It's a website that allows you to easily create QR codes.",
+          "url": "https://superxnero.github.io/apps/creator-qr-code/index.html"
+        },
+        {
+          "name": "Number System Converter",
+          "description": "It's a website that allows you to convert numbers between different systems.",
           "url": "https://superxnero.github.io/apps/number-system-converter/index.html"
+        },
+        {
+          "name": "Send Me a Secret Message!",
+          "description": "It's a website where you can send me a secret message, and I won't know who sent it.",
+          "url": "https://tellonym.me/superxnero"
         }]
     },
     "عربي": {
@@ -45,7 +51,16 @@
         "name": "محوّل نظام الاعداد",
         "description": "انه تطبيق يمكنك من خلاله تحويل عدد من نظام الى آخر!",
         "url": "https://superxnero.github.io/apps/number-system-converter/index.html"
-      }]
+      },
+        {
+          "name": "Number system converter",
+          "description": "it's an application that you can convert a number from system to another !",
+          "url": "https://superxnero.github.io/apps/number-system-converter/index.html"
+        }, {
+          "name": "أرسل لي رسالة سرية!",
+          "description": "هذا موقع يمكنك من خلاله إرسال رسالة سرية لي دون أن أعرف من أرسلها.",
+          "url": "https://tellonym.me/superxnero"
+        }]
     }
   }
 }

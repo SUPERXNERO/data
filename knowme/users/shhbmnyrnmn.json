@@ -1,0 +1,32 @@
+{
+  "image": {
+    "notDirect": true,
+    "url": "shhbmnyrnmn.jpg"
+  },
+  "socialMedia": {
+    "instagram": "shhbmnyrnmn",
+    "threads": "shhbmnyrnmn"
+  },
+  "texts": {
+    "english": {
+      "name": "Shahab Al-Awadhi",
+      "nickname": "shhbmnyrnmn",
+      "aboutme": "I am just a Muslim person\nI am 17 years old\nThere is no god but Allah alone, with no partner, to Him belongs the dominion, and to Him belongs all praise, and He is over all things competent.\n❤️‍🔥Tea Party❤️‍🔥\nI follow back 👇🏼👇🏼👇🏼",
+      "more": [{
+        "name": "Threads Analysis",
+        "description": "Link to Threads personality analysis",
+        "url": "https://superxnero.github.io/apps/threads/index.html?user_id=shhbmnyrnmn"
+      }]
+    },
+    "عربي": {
+      "name": "شهاب العواضي",
+      "nickname": "shhbmnyrnmn",
+      "aboutme": "انا مجرد شخص مسلم\nعمري ١٧\nلا إله إلا الله وحده لا شريك له له الملك وله الحمد وهو على كل شيء قدير.\n❤️‍🔥حزب الشاي❤️‍🔥\nتراني ارد المتابعة👇🏼👇🏼👇🏼",
+      "more": [{
+        "name": "تحليل ثريدز",
+        "description": "رابط تحليل شخصية ثريدز",
+        "url": "https://superxnero.github.io/apps/threads/index.html?user_id=shhbmnyrnmn"
+      }]
+    }
+  }
+}

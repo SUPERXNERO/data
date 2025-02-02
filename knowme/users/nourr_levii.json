@@ -1,0 +1,46 @@
+{
+  "image": {
+    "notDirect": true,
+    "url": "nourr_levii.jpg"
+  },
+  "socialMedia": {
+    "instagram": "nourr_levii",
+    "threads": "nourr_levii"
+  },
+  "texts": {
+    "english": {
+      "name": "Nour",
+      "nickname": "nourr_levii",
+      "aboutme": "Reader 📚 | Artist 🎨 | Chess Player ♟️ | Anime & Manga Lover 🍜 | INTJ | 15 years old",
+      "more": [
+        {
+          "name": "Threads Analysis",
+          "description": "Link to Threads personality analysis",
+          "url": "https://superxnero.github.io/apps/threads/index.html?user_id=nourr_levii"
+        },
+        {
+          "name": "NGL",
+          "description": "NGL anonymous message link",
+          "url": "https://ngl.link/nour_levi"
+        }
+      ]
+    },
+    "عربي": {
+      "name": "نور",
+      "nickname": "nourr_levii",
+      "aboutme": "قارئة 📚 | رسامة 🎨 | لاعبة شطرنج ♟️ | محبة أنمي و مانجا 🍜 | نمط INTJ | عمري ١٥ سنة",
+      "more": [
+        {
+          "name": "تحليل ثريدز",
+          "description": "رابط تحليل شخصية ثريدز",
+          "url": "https://superxnero.github.io/apps/threads/index.html?user_id=nourr_levii"
+        },
+        {
+          "name": "NGL",
+          "description": "رابط رسائل NGL مجهولة",
+          "url": "https://ngl.link/nour_levi"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "image": {
+    "notDirect": true,
+    "url": "its_metome1.jpg"
+  },
+  "socialMedia": {
+    "instagram": "its_metome1",
+    "threads": "its_metome1"
+  },
+  "texts": {
+    "english": {
+      "name": "Heba",
+      "nickname": "its_metome1",
+      "aboutme": "Student in Grade 12 (Literary Stream) from Jordan | 17 years old",
+      "more": [
+        {
+          "name": "Threads Analysis",
+          "description": "Link to Threads personality analysis",
+          "url": "https://superxnero.github.io/apps/threads/index.html?user_id=its_metome1"
+        }
+      ]
+    },
+    "عربي": {
+      "name": "هبة",
+      "nickname": "its_metome1",
+      "aboutme": "طالبة في الصف الثاني عشر (أدبي) من الأردن | عمري ١٧ سنة",
+      "more": [
+        {
+          "name": "تحليل ثريدز",
+          "description": "رابط تحليل شخصية ثريدز",
+          "url": "https://superxnero.github.io/apps/threads/index.html?user_id=its_metome1"
+        }
+      ]
+    }
+  }
+}

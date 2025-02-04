@@ -12,13 +12,25 @@
       "name": "Abdulmohsen",
       "nickname": "Ms Hat",
       "aboutme": "Kind person who loves books and technology.",
-      "more": []
+      "more": [
+        {
+          "name": "Tellonym",
+          "description": "Tellonym anonymous message link",
+          "url": "https://tellonym.me/ms.hat"
+        }
+      ]
     },
     "عربي": {
       "name": "عبدالمحسن",
       "nickname": "السيد قبعة",
       "aboutme": "إنسان حبوب محب للكتب والتقنية.",
-      "more": []
+      "more": [
+        {
+          "name": "Tellonym",
+          "description": "رابط رسائل تيلونيم مجهولة",
+          "url": "https://tellonym.me/ms.hat"
+        }
+      ]
     }
   }
 }

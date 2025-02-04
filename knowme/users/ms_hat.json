@@ -1,0 +1,24 @@
+{
+  "image": {
+    "notDirect": true,
+    "url": "ms_hat.jpg"
+  },
+  "socialMedia": {
+    "threads": "ms_hat",
+    "telegram": "ms_hat"
+  },
+  "texts": {
+    "english": {
+      "name": "Abdulmohsen",
+      "nickname": "Ms Hat",
+      "aboutme": "Kind person who loves books and technology.",
+      "more": []
+    },
+    "عربي": {
+      "name": "عبدالمحسن",
+      "nickname": "السيد قبعة",
+      "aboutme": "إنسان حبوب محب للكتب والتقنية.",
+      "more": []
+    }
+  }
+}

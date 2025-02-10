@@ -1,0 +1,36 @@
+{
+  "image": {
+    "notDirect": true,
+    "url": "f.arah7i.jpg"
+  },
+  "socialMedia": {
+    "instagram": "f.arah7i",
+    "threads": "f.arah7i"
+  },
+  "texts": {
+    "english": {
+      "name": "Farah",
+      "nickname": "f.arah7i",
+      "aboutme": "Official Photographer & Leader of the Tea and Women's Parties ✨📸🎀 | Winner of Best Threads Account of 2024 🌷 | University Student from Saudi Arabia",
+      "more": [
+        {
+          "name": "Secret Message",
+          "description": "Secret message link",
+          "url": "https://ar.secretnote.me/msg/4uP7"
+        }
+      ]
+    },
+    "عربي": {
+      "name": "فرح",
+      "nickname": "f.arah7i",
+      "aboutme": "المصورة الرسمية وقائدة لحزب الشاي وحزب النساء ✨📸🎀 | الفائزة بلقب افضل حساب في ثريدز لعام 2024 🌷 | طالبة جامعية من السعودية",
+      "more": [
+        {
+          "name": "رسالة سرية",
+          "description": "رابط الرسالة السرية",
+          "url": "https://ar.secretnote.me/msg/4uP7"
+        }
+      ]
+    }
+  }
+}

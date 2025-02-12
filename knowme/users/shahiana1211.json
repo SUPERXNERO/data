@@ -1,0 +1,36 @@
+{
+  "image": {
+    "notDirect": true,
+    "url": "shahiana1211.jpg"
+  },
+  "socialMedia": {
+    "instagram": "shahiana1211",
+    "threads": "shahiana1211"
+  },
+  "texts": {
+    "english": {
+      "name": "Shahiana",
+      "nickname": "shahiana1211",
+      "aboutme": "CEO of Little Detectives Team & Leader in Photography Party | From Baghdad, Iraq | Born on August 8, 2007 | Emotional",
+      "more": [
+        {
+          "name": "Threads Analysis",
+          "description": "Link to Threads personality analysis",
+          "url": "https://superxnero.github.io/apps/threads/index.html?user_id=shahiana1211"
+        }
+      ]
+    },
+    "عربي": {
+      "name": "شيهيانا",
+      "nickname": "shahiana1211",
+      "aboutme": "رئيسة تنفيذية بفريق المتحرين الصغار وقائدة في حزب التصوير | من بغداد، العراق | مواليد 8 أغسطس 2007 | عاطفية",
+      "more": [
+        {
+          "name": "تحليل ثريدز",
+          "description": "رابط تحليل شخصية ثريدز",
+          "url": "https://superxnero.github.io/apps/threads/index.html?user_id=shahiana1211"
+        }
+      ]
+    }
+  }
+}
